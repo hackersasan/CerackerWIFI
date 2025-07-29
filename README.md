@@ -1,2 +1,12 @@
 # CerackerWIFI
-back run script python command enter for windows : pip install pywifi and linux : sudo pip3 install pywifi code write with python3
+**Disclaimer**
+This software is intended for educational purposes only. It is your responsibility to use it ethically and legally. The developer is not responsible for any unauthorized actions or damage caused by misuse of this tool.
+Please use this software in accordance with the laws of your jurisdiction.
+**Instllation**
+For Install In windows:
+`pip install pywifi`
+For Install In Linux:
+`
+sudo apt update && sudo apt upgrade
+sudo pip install pywifi
+`
